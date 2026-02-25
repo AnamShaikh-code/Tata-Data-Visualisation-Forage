@@ -26,4 +26,4 @@ Created visuals for data analysis to help executives with effective decision mak
 Transformed raw business data into actionable insights for CEO & CMO level stakeholders.
 
 ## Certificate
-![Certificate](Certificate_Data_Visualisation_Tata.png)
+![Certificate](Certificate_Data_Visualisation_Tata.pdf)
